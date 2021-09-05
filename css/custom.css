@@ -1,0 +1,54 @@
+.bg-primary {
+    background-color: #3d9683 !important;
+}
+
+.text-primary {
+    color: #3d9683 !important;
+}
+
+body {
+    background-color: #1c1e1f !important;
+    color: #9e9689 !important;
+}
+
+h1,
+h2,
+h3 {
+    color: #c3beb6 !important;
+}
+
+#email {
+    color: #3d9683 !important;
+}
+
+#email:hover {
+    color: #327b6b !important;
+}
+
+.link-game {
+    color: #3d9683 !important;
+    font-weight: bolder;
+}
+
+.link-game:hover {
+    color: #327b6b !important;
+    font-weight: bolder;
+}
+
+.icon-C3logoNumber-monochrome:before {
+    content: "\e900";
+    color: #9e9689;
+}
+
+.icon-C3logoNumber-monochrome {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+em {
+    font-weight: bolder;
+}
