@@ -51,4 +51,9 @@ h3 {
 
 em {
     font-weight: bolder;
+    font-style: normal;
+}
+
+.year {
+    font-weight: bold;
 }
