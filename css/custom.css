@@ -57,3 +57,7 @@ em {
 .year {
     font-weight: bold;
 }
+
+.social-icons .social-icon:hover {
+    background-color: #3d9683;
+  }
