@@ -40,10 +40,10 @@ h3 {
     color: #9e9689;
 }
 
-.icon-C3logoNumber-monochrome {
+.icon {
     display: inline-block;
-    width: 1.5em;
-    height: 1.5em;
+    width: 1.25em;
+    height: 1.25em;
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
